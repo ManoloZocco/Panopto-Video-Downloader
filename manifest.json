@@ -2,13 +2,18 @@
 "update_url": "https://clients2.google.com/service/update2/crx",
 
 	"name": "Panopto Video Downloader",
-	"version": "1.0",
-	"description": "Download Video From Panopto",
+	"version": "1.2",
+	"description": "Download video from every *.cloud.panopto.eu university site.",
 	"manifest_version": 2,
 
 	"background": {
 		"scripts": ["background.js"]
 	},
+	"icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    },
 	"browser_action": {
 		"default_icon": "download-icon-green.png"
 	},
