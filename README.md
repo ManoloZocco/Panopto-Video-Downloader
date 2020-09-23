@@ -1,7 +1,7 @@
 # Panopto Video Downloader
 A simple extension for Google Chrome that allows you to download videos from Panopto for later viewing.
 
-#NB:
+# N.B.:
 the extension works if your university has not made any changes to the Panopto player. If your university uses different players from the default one in Panopto (it's something that could be checked in the code) this extsension won't works. Unfortunately I don't have access to all players from all universities in order to make an universal version :(
 
 I'm not a professional programmer, I just tried to adapt something to make it useful :)
