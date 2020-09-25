@@ -11,7 +11,7 @@ So, if you know someone who can solve these problems, invite them to review the 
 Add it to Chrome or EDGE (based on Chromium) from Chrome Web Store: https://chrome.google.com/webstore/detail/panopto-video-downloader/fldiimnkhimjonkiklkchogonpidmmca?hl=it
 Or download the code and install it in your browser following these instructions: https://github.com/ManoloZocco/Panopto-Video-Downloader/wiki/How-to-install
 
-# HOW TO USE:
+# How to use:
 Navigate to the Panopto video itself you want to download, Click on the extension icon (it's green and located at the top right of your browser) and choose where you want the video to be saved.
 
 NOTE:
