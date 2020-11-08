@@ -2,7 +2,7 @@
 "update_url": "https://clients2.google.com/service/update2/crx",
 
 	"name": "Panopto Video Downloader",
-	"version": "1.3",
+	"version": "1.4",
 	"description": "Download video from panopto.eu and panopto.com sites.",
 	"manifest_version": 2,
 
